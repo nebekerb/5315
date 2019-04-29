@@ -2,7 +2,7 @@
   "data": [
     {
       "file": "biggerjimslade.esp",
-      "in game name": "josie",
+      "name": "josie",
       "size": "168.75 MB",
       "implementation": "Cooking Station",
       "location": "Red Rocket Truck Stop",
@@ -10,7 +10,7 @@
     },
     {
       "file": "ihavethepower!.esp",
-      "in game name": "Lieto's Animation Gun",
+      "name": "Lieto's Animation Gun",
       "size": "30.60 MB",
       "implementation": "Chem Station",
       "location": "Statue by Sanctuary Hills",
@@ -18,7 +18,7 @@
     },
     {
       "file": "fletch.esp",
-      "in game name": "Piper's Secrets",
+      "name": "Piper's Secrets",
       "size": "24.02 MB",
       "implementation": "Chem Station",
       "location": "Publick Occurrences",
@@ -26,7 +26,7 @@
     },
     {
       "file": "gebtp.esp",
-      "in game name": "Grab Em",
+      "name": "Grab Em",
       "size": "338.50 KB",
       "implementation": "Chem Station",
       "location": "Chem Station",
@@ -34,7 +34,7 @@
     },
     {
       "file": "sappcan.esp",
-      "in game name": "Paintings - Naughty Canvas",
+      "name": "Paintings - Naughty Canvas",
       "size": "2.4 MB",
       "implementation": "Workshop Mode",
       "location": "Workshop",
@@ -42,7 +42,7 @@
     },
     {
       "file": "cybercasper.esp",
-      "in game name": "Ghost Out Of The Shell",
+      "name": "Ghost Out Of The Shell",
       "size": "115.95 MB",
       "implementation": "Chem Station",
       "location": "Concord Freedom Museum",
@@ -50,7 +50,7 @@
     },
     {
       "file": "ancietgearjw.esp",
-      "in game name": "SPART GEAR",
+      "name": "SPART GEAR",
       "size": "49.84 MB",
       "implementation": "Chem Station",
       "location": "Covenant",
@@ -58,7 +58,7 @@
     },
     {
       "file": "leatherface.esp",
-      "in game name": "n/a",
+      "name": "n/a",
       "size": "2.62 MB",
       "implementation": "Equip Road Leathers",
       "location": "n/a",
@@ -66,7 +66,7 @@
     },
     {
       "file": "wabbittwaks.esp",
-      "in game name": "BUNNIES",
+      "name": "BUNNIES",
       "size": "35.84 MB",
       "implementation": "Chem Station",
       "location": "Concord Civic Access",
@@ -74,7 +74,7 @@
     },
     {
       "file": "porkysiithenextday.esp",
-      "in game name": "Railroad's Bitch!",
+      "name": "Railroad's Bitch!",
       "size": "56.34 MB",
       "implementation": "Chem Station",
       "location": "Railroad HQ",
@@ -82,7 +82,7 @@
     },
     {
       "file": "warhaul.esp",
-      "in game name": "Body Paint Suits and tatoos",
+      "name": "Body Paint Suits and tatoos",
       "size": "38.45 MB",
       "implementation": "Cooking Station",
       "location": "Vault 111 bridge",
@@ -90,7 +90,7 @@
     },
     {
       "file": "dsrdegssnjikglht.esp",
-      "in game name": "Synla DressNight",
+      "name": "Synla DressNight",
       "size": "63.46 MB",
       "implementation": "Chem Station",
       "location": "Chem Station",
@@ -98,7 +98,7 @@
     },
     {
       "file": "qkaeod.esp",
-      "in game name": "Synla Qad",
+      "name": "Synla Qad",
       "size": "5.80 MB",
       "implementation": "Chem Station",
       "location": "Chem Station",
@@ -106,7 +106,7 @@
     },
     {
       "file": "hahhah!.esp",
-      "in game name": "Harley's Outfit",
+      "name": "Harley's Outfit",
       "size": "18.65 MB",
       "implementation": "Cooking Station",
       "location": "Third Rail",
@@ -114,7 +114,7 @@
     },
     {
       "file": "anotherfailedartist.esp",
-      "in game name": "Shino Artist Instructions",
+      "name": "Shino Artist Instructions",
       "size": "50.63 MB",
       "implementation": "Cooking Station",
       "location": "Back Street Apparel",
