@@ -2,7 +2,7 @@
   "data": [
     {
       "file": "biggerjimslade.esp",
-      "name": "josie",
+      "name": "Josie",
       "size": "168.75 MB",
       "implementation": "Cooking Station",
       "location": "Red Rocket Truck Stop",
@@ -22,7 +22,7 @@
       "size": "24.02 MB",
       "implementation": "Chem Station",
       "location": "Publick Occurrences",
-      "effects": "Customizable outfit"
+      "effects": "Customizable outfit curvy"
     },
     {
       "file": "gebtp.esp",
@@ -102,7 +102,7 @@
       "size": "5.80 MB",
       "implementation": "Chem Station",
       "location": "Chem Station",
-      "effects": "Outfit expansion"
+      "effects": "Synla outfit expansion"
     },
     {
       "file": "hahhah!.esp",
@@ -119,6 +119,22 @@
       "implementation": "Cooking Station",
       "location": "Back Street Apparel",
       "effects": "Outfits"
+    },
+    {
+      "file": "nowiminthreecowboyhats.esp",
+      "name": "COWBOY HATS",
+      "size": "26.45 MB",
+      "implementation": "Cooking Station",
+      "location": "Abernathy Farm",
+      "effects": "Cowboy chaps 3 sizes"
+    },
+    {
+      "file": "fashionstatement.esp",
+      "name": "LES SUCETTES",
+      "size": "155.03 MB",
+      "implementation": "Cooking Station",
+      "location": "Vault 111 sign base",
+      "effects": "Outfits josie"
     }
   ]
 }

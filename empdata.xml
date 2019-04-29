@@ -1,123 +1,139 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-  <employees>
+  <FO4HIDDENWIPS>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <file>biggerjimslade.esp</file>
+      <name>Josie</name>
+      <size>168.75 MB</size>
+      <implementation>Cooking Station</implementation>
+      <location>Red Rocket Truck Stop</location>
+      <effects>Curvy body mod</effects>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <file>ihavethepower!.esp</file>
+      <name>Lieto's Animation Gun</name>
+      <size>30.60 MB</size>
+      <implementation>Chem Station</implementation>
+      <location>Statue by Sanctuary Hills</location>
+      <effects>Animation</effects>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <file>fletch.esp</file>
+      <name>Piper's Secrets</name>
+      <size>24.02 MB</size>
+      <implementation>Chem Station</implementation>
+      <location>Publick Occurrences</location>
+      <effects>Customizable outfit curvy</effects>
     </data>
     <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <file>gebtp.esp</file>
+      <name>Grab Em</name>
+      <size>338.50 KB</size>
+      <implementation>Chem Station</implementation>
+      <location>Chem Station</location>
+      <effects>Skeleton hands</effects>
     </data>
     <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <file>sappcan.esp</file>
+      <name>Paintings - Naughty Canvas</name>
+      <size>2.4 MB</size>
+      <implementation>Workshop Mode</implementation>
+      <location>Workshop</location>
+      <effects>NSFW paintings</effects>
     </data>
     <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <file>cybercasper.esp</file>
+      <name>Ghost Out Of The Shell</name>
+      <size>115.95 MB</size>
+      <implementation>Chem Station</implementation>
+      <location>Concord Freedom Museum</location>
+      <effects>Customizable GITS outfits curvy</effects>
     </data>
     <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <file>ancietgearjw.esp</file>
+      <name>SPART GEAR</name>
+      <size>49.84 MB</size>
+      <implementation>Chem Station</implementation>
+      <location>Covenant</location>
+      <effects>Outfits josie</effects>
     </data>
     <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <file>leatherface.esp</file>
+      <name>n/a</name>
+      <size>$2.62 MB</size>
+      <implementation>Equip Road Leathers</implementation>
+      <location>n/a</location>
+      <effects>Modified Road Leathers outfit</effects>
     </data>
     <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <file>wabbittwaks.esp</file>
+      <name>BUNNIES</name>
+      <size>35.84 MB</size>
+      <implementation>Chem Station</implementation>
+      <location>Concord Civic Access</location>
+      <effects>Bunny outfits</effects>
     </data>
     <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <file>porkysiithenextday.esp</file>
+      <name>Railroad's Bitch!</name>
+      <size>56.34 MB</size>
+      <implementation>Chem Station</implementation>
+      <location>Railroad HQ</location>
+      <effects>Customizable outfit josie</effects>
     </data>
     <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <file>warhaul.esp</file>
+      <name>Body Paint Suits and tatoos</name>
+      <size>38.45 MB</size>
+      <implementation>Cooking Station</implementation>
+      <location>Vault 111 bridge</location>
+      <effects>Body paint and tattoos</effects>
     </data>
     <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+      <file>dsrdegssnjikglht.esp</file>
+      <name>Synla DressNight</name>
+      <size>63.46 MB</size>
+      <implementation>Chem Station</implementation>
+      <location>Chem Station</location>
+      <effects>Outfits</effects>
     </data>
     <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
+      <file>qkaeod.esp</file>
+      <name>Synla Qad</name>
+      <size>5.80 MB</size>
+      <implementation>Chem Station</implementation>
+      <location>Chem Station</location>
+      <effects>Synla outfit expansion</effects>
     </data>
     <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
+      <file>hahhah!.esp</file>
+      <name>Harley's Outfit</name>
+      <size>18.65 MB</size>
+      <implementation>Cooking Station</implementation>
+      <location>Third Rail</location>
+      <effects>Harley Quinn outfit</effects>
     </data>
     <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
+      <file>anotherfailedartist.esp</file>
+      <name>Shino Artist Instructions</name>
+      <size>50.63 MB</size>
+      <implementation>Cooking Station</implementation>
+      <location>Back Street Apparel</location>
+      <effects>Outfits</effects>
     </data>
-  </employees>
+    <data>
+      <file>nowiminthreecowboyhats.esp</file>
+      <name>COWBOY HATS</name>
+      <size>26.45 MB</size>
+      <implementation>Cooking Station</implementation>
+      <location>Abernathy Farm</location>
+      <effects>Cowboy chaps 3 sizes</effects>
+    </data>
+    <data>
+      <file>fashionstatement.esp</file>
+      <name>LES SUCETTES</name>
+      <size>155.03 MB</size>
+      <implementation>Cooking Station</implementation>
+      <location>Vault 111 sign base</location>
+      <effects>Outfits josie</effects>
+    </data>
+  </FO4HIDDENWIPS>
