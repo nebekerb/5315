@@ -1,124 +1,124 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "file": "biggerjimslade.esp",
+      "in-game name": "josie",
+      "size": "168.75 MB",
+      "implementation": "Cooking Station",
+      "location": "Red Rocket Truck Stop",
+      "effects": "Curvy body mod"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "file": "ihavethepower!.esp",
+      "in-game name": "Lieto's Animation Gun",
+      "size": "30.60 MB",
+      "implementation": "Chem Station",
+      "location": "Statue by Sanctuary Hills",
+      "effects": "Animation"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "file": "fletch.esp",
+      "in-game name": "Piper's Secrets",
+      "size": "24.02 MB",
+      "implementation": "Chem Station",
+      "location": "Publick Occurrences",
+      "effects": "Customizable outfit"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "file": "gebtp.esp",
+      "in-game name": "Grab Em",
+      "size": "338.50 KB",
+      "implementation": "Chem Station",
+      "location": "Chem Station",
+      "effects": "Skeleton hands"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "file": "sappcan.esp",
+      "in-game name": "Paintings - Naughty Canvas",
+      "size": "2.4 MB",
+      "implementation": "Workshop Mode",
+      "location": "Workshop",
+      "effects": "NSFW paintings"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "file": "cybercasper.esp",
+      "in-game name": "Ghost Out Of The Shell",
+      "size": "115.95 MB",
+      "implementation": "Chem Station",
+      "location": "Concord Freedom Museum",
+      "effects": "Customizable GITS outfits curvy"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "file": "ancietgearjw.esp",
+      "in-game name": "SPART GEAR",
+      "size": "49.84 MB",
+      "implementation": "Chem Station",
+      "location": "Covenant",
+      "effects": "Outfits josie"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "file": "leatherface.esp",
+      "in-game name": "n/a",
+      "size": "2.62 MB",
+      "implementation": "Equip Road Leathers",
+      "location": "n/a",
+      "effects": "Modified Road Leathers outfit"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "file": "wabbittwaks.esp",
+      "in-game name": "BUNNIES",
+      "size": "35.84 MB",
+      "implementation": "Chem Station",
+      "location": "Concord Civic Access",
+      "effects": "Bunny outfits"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "file": "porkysiithenextday.esp",
+      "in-game name": "Railroad's Bitch!",
+      "size": "56.34 MB",
+      "implementation": "Chem Station",
+      "location": "Railroad HQ",
+      "effects": "Customizable outfit josie"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "file": "warhaul.esp",
+      "in-game name": "Body Paint Suits and tatoos",
+      "size": "38.45 MB",
+      "implementation": "Cooking Station",
+      "location": "Vault 111 bridge",
+      "effects": "Body paint and tattoos"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "file": "dsrdegssnjikglht.esp",
+      "in-game name": "Synla DressNight",
+      "size": "63.46 MB",
+      "implementation": "Chem Station",
+      "location": "Chem Station",
+      "effects": "Outfits"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "file": "qkaeod.esp",
+      "in-game name": "Synla Qad",
+      "size": "5.80 MB",
+      "implementation": "Chem Station",
+      "location": "Chem Station",
+      "effects": "Outfit expansion"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "file": "hahhah!.esp",
+      "in-game name": "Harley's Outfit",
+      "size": "18.65 MB",
+      "implementation": "Cooking Station",
+      "location": "Third Rail",
+      "effects": "Harley Quinn outfit"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "file": "anotherfailedartist.esp",
+      "in-game name": "Shino Artist Instructions",
+      "size": "50.63 MB",
+      "implementation": "Cooking Station",
+      "location": "Back Street Apparel",
+      "effects": "Outfits"
     }
   ]
 }

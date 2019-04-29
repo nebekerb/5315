@@ -10,22 +10,22 @@
     <table id="empTable" class="display" width="100%" cellspacing="0">
         <thead>
             <tr>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>File</th>
+                <th>In-game Name</th>
+                <th>Size</th>
+                <th>Implementation</th>
+                <th>Location</th>
+                <th>Effects</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>File</th>
+                <th>In-game Name</th>
+                <th>Size</th>
+                <th>Implementation</th>
+                <th>Location</th>
+                <th>Effects</th>
             </tr>
         </tfoot>
     </table>
@@ -40,12 +40,12 @@
         $('#empTable').dataTable({
             "ajax": "empdata.js",
             "columns": [
-                {"data": "name"},
-                {"data": "designation"},
-                {"data": "office"},
-                {"data": "extension"},
-                {"data": "joining_date"},
-                {"data": "salary"}
+                {"data": "file"},
+                {"data": "in-game_name"},
+                {"data": "size"},
+                {"data": "implementation"},
+                {"data": "location"},
+                {"data": "effects"}
             ]
         });   
     });
